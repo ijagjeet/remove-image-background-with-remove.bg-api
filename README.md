@@ -6,3 +6,10 @@
 
 ## Usage
 - Run command `python main.py`
+
+## Sample Result
+Input: <br>
+![alt text](https://github.com/ijagjeet/remove-image-background-with-remove.bg-api/raw/master/selfie.jpg "Input")
+
+Output: <br>
+![alt text](https://github.com/ijagjeet/remove-image-background-with-remove.bg-api/raw/master/salfie-rmbg.png "Output")
